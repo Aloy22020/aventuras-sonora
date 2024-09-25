@@ -1,0 +1,29 @@
+body {
+    color:rgb(127, 161, 255);
+    background: rgba(178, 255, 127, 0.616);
+    font-size: 20px;
+    font-family: "Nerko One", cursive;
+    font-display: flex;
+    justify-content:  center;
+    align-self: center;
+    height: 700px;
+    margin:0px;
+}
+    button{
+        color: rgb(127, 140, 255);
+        font-family: "Nerko One", cursive;
+        background: rgb(127, 219, 255);
+
+    }
+    .passo {
+        display: none;
+    }
+
+    .passo.ativo {
+        display: block;
+    }
+    img{
+        height: 700px;
+        
+    }
+    
